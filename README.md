@@ -1,4 +1,4 @@
-Hi, I’m Matthew Moon aka @Quantumplate
+Hi, I’m Matthew Moon
 
 I’m interested in Python, Pandas, and Django.
 
